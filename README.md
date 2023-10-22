@@ -68,4 +68,17 @@ A simple MERN app for testing Stripe with user and subscription management, for 
   </tbody>
 </table>
 
+### Challenge
+Create a MERN app being a **frontend** developer by using a new (for me) **React** architecture which is extended version of `View-Controller` pattern by adding a special _hook_ which separates logical part from _Container_ as well and also using unit and component testing which has been done very well due to this architecture. Also integrating Stripe on server and client side for the first time was also a challenge.
+
+### Key Solutions
+- Improved `View-Controller` for `React`
+- `JWT` based authentication with Email verification
+- Class based controllers in `Express`
+- `Vue 3` with `Vuetify` integration
+
+### Attachments
+- Folder structure example for the mentioned `React` architecture: <br> <img width="388" alt="Screenshot 2023-10-22 at 13 54 48" src="https://github.com/AlbertArakelyan/SolutionsShowcase/assets/61713118/2fc42d5f-4b59-48fb-aba3-905fb564a9b8">
+
+
 
