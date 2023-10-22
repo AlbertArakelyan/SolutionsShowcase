@@ -81,5 +81,8 @@ Create a MERN app being a **frontend** developer by using a new (for me) **React
 ### Attachments
 - Folder structure example for the mentioned `React` architecture: <br> <img width="388" alt="Screenshot 2023-10-22 at 13 54 48" src="https://github.com/AlbertArakelyan/SolutionsShowcase/assets/61713118/2fc42d5f-4b59-48fb-aba3-905fb564a9b8">
 
+### Future Improvements
+- Add `Storybook`
+
 
 
