@@ -36,6 +36,7 @@ A simple MERN app for testing Stripe with user and subscription management, for 
     <tr>
       <th>Frontend</th>
       <th>Backend</th>
+      <th>Admin Panel</th>
       <th>Other</th>
     </tr>
   </thead>
@@ -56,6 +57,13 @@ A simple MERN app for testing Stripe with user and subscription management, for 
           <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express" alt="Express">
           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" alt="MongoDB">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" title="Mongoose" alt="Mongoose" width="40" height="40"/>
+        </div>
+      </td>
+      <td>
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40">
+          <img src="https://iconape.com/wp-content/png_logo_vector/vuetify-logo.png" title="Vuetify" alt="Vuetify" width="40" height="40">
+          <img src="https://emojis.slackmojis.com/emojis/images/1653495163/59365/pinia.png?1653495163" title="Pinia" alt="Pinia" width="40" height="40"/>
         </div>
       </td>
       <td>
