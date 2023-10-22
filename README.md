@@ -7,3 +7,5 @@ This repository serves as a centralized hub for my projects, each a showcase of 
 Feel free to explore, contribute, and let's build a community around innovative problem-solving!
 
 ---
+
+_Feel free to add your solutions, open for any further contribution_
