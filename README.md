@@ -73,6 +73,7 @@ Create a MERN app being a **frontend** developer by using a new (for me) **React
 
 ### Key Solutions
 - Improved `View-Controller` architecture for `React`
+- Dark mode implementation
 - `JWT` based authentication with Email verification
 - Class based controllers in `Express`
 - `Vue 3` with `Vuetify` integration
