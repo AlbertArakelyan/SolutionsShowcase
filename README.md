@@ -97,5 +97,14 @@ Create a MERN app being a **frontend** developer by using a new (for me) **React
 
 ## Exoplanet Project
 
+### About
+Simple MERN with ready frontend part for focusing on Node.js by getting data from external sources, working with CSV files and parsing them and of course working with databases such as MongoDB with mongoose.
+
+### Repository
+[react-express-exoplanet-project](https://github.com/AlbertArakelyan/react-express-exoplanet-project)
+
+### Challenge
+As the project has been done in scopes of a **Udemy** course so just passing and doing the project was a challenge by it self, and yet another challange was take as much as I can, interesting aproaches with Node.js, best practices, authentication, oauth client, socket.io, API testing and many other things that I learnt and of course need to practice more 😊
+
 
 
