@@ -114,7 +114,7 @@ Simple MERN with ready frontend part for focusing on Node.js by getting data fro
 </div>
 
 ### Challenge
-As the project has been done in scopes of a **Udemy** course so just passing and doing the project was a challenge by it self, and yet another challange was take as much as I can, interesting aproaches with Node.js, best practices, authentication, oauth client, socket.io, API testing and many other things that I learnt and of course need to practice more 😊
+As the project has been done in scopes of a **Udemy** course so just passing and doing the project was a challenge by it self, and yet another challange was take as much as I can, interesting aproaches with Node.js, best practices, authentication, oauth client, socket.io, API testing and many other things that I learnt and of course need to practice more 😊.
 
 ### Key Solutions
 - Staticly running `React` production build from `Express`
