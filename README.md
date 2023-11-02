@@ -17,6 +17,7 @@ If you're passionate about sharing your tech expertise, you're welcome to contri
 | No | Project | Author |
 | ------- | --- | ---
 | 1 | [Checkinator](#checkinator) | [AlbertArakelyan](https://github.com/AlbertArakelyan)
+| 2 | [Exoplanet Project](#exoplanet-project) | [AlbertArakelyan](https://github.com/AlbertArakelyan)
 
 ---
 
@@ -91,6 +92,10 @@ Create a MERN app being a **frontend** developer by using a new (for me) **React
 
 ### Future Improvements
 - Add `Storybook`
+
+---
+
+## Exoplanet Project
 
 
 
