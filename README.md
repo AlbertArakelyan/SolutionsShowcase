@@ -103,8 +103,31 @@ Simple MERN with ready frontend part for focusing on Node.js by getting data fro
 ### Repository
 [react-express-exoplanet-project](https://github.com/AlbertArakelyan/react-express-exoplanet-project)
 
+### Tech Stack
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Nodejs" alt="Nodejs">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express" alt="Express">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" alt="MongoDB">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" title="Mongoose" alt="Mongoose" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker">
+</div>
+
 ### Challenge
 As the project has been done in scopes of a **Udemy** course so just passing and doing the project was a challenge by it self, and yet another challange was take as much as I can, interesting aproaches with Node.js, best practices, authentication, oauth client, socket.io, API testing and many other things that I learnt and of course need to practice more 😊
+
+### Key Solutions
+- Staticly running `React` production build from `Express`
+- With one `package.json` file controlled apps (Frontend, Backend)
+- Very fancy scientefic friendly UI
+- Good set up **Cross origin** policies
+- A very good Node.js architecture
+- Very good expressed **Data Access Layer** in Node.js models
+- API testing with `Supertest`
+- Dockerized app (not in a deep level)
+- Integarated **CI** with **Github Actions**
+- Deployed with `SE3` (you can check [here](http://16.171.161.83:8000/))
+- Working with CSV files and parsing them
 
 
 
