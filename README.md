@@ -151,3 +151,10 @@ A simple dockerized MERN app with basic authentication and CRUD.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" title="Mongoose" alt="Mongoose" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker">
 </div>
+
+### Challenge
+Create a dockerized app using `nodejs` first times from scratch, also set up tailwind from scratch and create a modern UI with it.
+
+### Key Solutions
+- Well set up Tailwind
+- Fully **dockerized** project
