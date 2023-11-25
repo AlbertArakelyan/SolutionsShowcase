@@ -137,4 +137,6 @@ As the project has been done in scopes of a **Udemy** course so just passing and
 ### About
 A simple dockerized MERN app with basic authentication and CRUD.
 
+### Repository
+[post-ef](https://github.com/AlbertArakelyan/post-ef)
 
