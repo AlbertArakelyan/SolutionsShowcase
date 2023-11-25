@@ -134,4 +134,7 @@ As the project has been done in scopes of a **Udemy** course so just passing and
 
 ## Post EF
 
+### About
+A simple dockerized MERN app with basic authentication and CRUD.
+
 
