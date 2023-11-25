@@ -140,3 +140,14 @@ A simple dockerized MERN app with basic authentication and CRUD.
 ### Repository
 [post-ef](https://github.com/AlbertArakelyan/post-ef)
 
+### Tech Stack
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Nodejs" alt="Nodejs">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express" alt="Express">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" alt="MongoDB">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" title="Mongoose" alt="Mongoose" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker">
+</div>
