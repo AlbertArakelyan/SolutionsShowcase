@@ -18,6 +18,7 @@ If you're passionate about sharing your tech expertise, you're welcome to contri
 | ------- | --- | ---
 | 1 | [Checkinator](#checkinator) | [AlbertArakelyan](https://github.com/AlbertArakelyan)
 | 2 | [Exoplanet Project](#exoplanet-project) | [AlbertArakelyan](https://github.com/AlbertArakelyan)
+| 3 | [Post EF](#post-ef) | [AlbertArakelyan](https://github.com/AlbertArakelyan/post-ef)
 
 ---
 
@@ -129,5 +130,8 @@ As the project has been done in scopes of a **Udemy** course so just passing and
 - Deployed with `SE3` (you can check [here](http://16.171.161.83:8000/))
 - Working with CSV files and parsing them
 
+---
+
+## Post EF
 
 
