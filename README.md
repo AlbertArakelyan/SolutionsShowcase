@@ -19,6 +19,7 @@ If you're passionate about sharing your tech expertise, you're welcome to contri
 | 1 | [Checkinator](#checkinator) | [AlbertArakelyan](https://github.com/AlbertArakelyan)
 | 2 | [Exoplanet Project](#exoplanet-project) | [AlbertArakelyan](https://github.com/AlbertArakelyan)
 | 3 | [Post EF](#post-ef) | [AlbertArakelyan](https://github.com/AlbertArakelyan/post-ef)
+| 4 | [Keep Link](#keep-link) | [ArthurArakelyan](https://github.com/ArthurArakelyan/keep-link)
 
 ---
 
@@ -159,3 +160,55 @@ Create a dockerized app using `nodejs` first times from scratch, also set up tai
 ### Key Solutions
 - Well set up Tailwind
 - Fully **dockerized** project
+
+---
+
+## Keep Link
+
+### About
+Keep Link is a powerful tool which allows you to save all your links in one place.
+
+### Repositories
+- [keep-link](https://github.com/ArthurArakelyan/keep-link)
+- [keep-link-server](https://github.com/ArthurArakelyan/keep-link-server)
+
+### Tech Stack
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" title="Typescript" alt="Typescript">
+          <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" title="Angular" alt="Angular" width="40" height="40" />
+          <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" title="RxJs" alt="RxJs" width="40" height="40"/>
+          <img src="https://ngrx.io/assets/images/badge.svg" title="NgRx" alt="NgRx" width="40" height="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
+        </div>
+      </td>
+      <td>
+        <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Nodejs" alt="Nodejs">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express" alt="Express">
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Challenge
+Create an Angular website by integrating **Angular Fire** services for working with **Firebase** in Angular, **RxJs** reactive store, Unit tests and Component tests, and **Storybook** for shared and UI components preview.
+
+### Key Solutions
+- `Storybook` integration
+- `Unit tests` integration
+- `Dark theme` and `Dark high contrast` theme implementation
+- `Angular Fire` Services implementation for working with `Firebase`
+- `Firebase Authentication` based authentication with Email verification
+- `Angular` with `RxJs` reactive store integration
