@@ -146,7 +146,7 @@ A simple dockerized MERN app with basic authentication and CRUD.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Nodejs" alt="Nodejs">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" title="Express" alt="Express">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" alt="MongoDB">
