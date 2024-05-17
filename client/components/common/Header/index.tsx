@@ -15,7 +15,7 @@ const Header = () => {
   );
 
   return (
-    <header className="py-5 border-b border-alpha-black shadow-header text-primary">
+    <header className="py-5 border-b border-alpha-black shadow-header text-primary bg-header-background">
       <div className="center-container mx-auto">
         <div className="flex items-center justify-between">
           <Link className="group" href="/">

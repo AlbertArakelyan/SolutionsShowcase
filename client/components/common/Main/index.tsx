@@ -2,7 +2,7 @@ import { IMainProps } from './types';
 
 const Main = ({ children }: IMainProps) => {
   return (
-    <main>
+    <main className="py-8">
       {children}
     </main>
   );

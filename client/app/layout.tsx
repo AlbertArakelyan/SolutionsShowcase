@@ -20,7 +20,7 @@ const RootLayout = ({
 }>) => {
   return (
     <html lang="en">
-      <body className={rubik.className}>
+      <body className={`bg-body-background ${rubik.className}`}>
         <Header />
 
         <Main>

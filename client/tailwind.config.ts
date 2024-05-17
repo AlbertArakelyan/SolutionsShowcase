@@ -16,6 +16,9 @@ const config: Config = {
         'very-light-blue': 'var(--very-light-blue)',
         'alpha-black': 'var(--alpha-black)',
 
+        'body-background': 'var(--body-background)',
+        'header-background': 'var(--header-background)',
+
         'muted': 'var(--muted)',
       },
       boxShadow: {
@@ -27,6 +30,14 @@ const config: Config = {
         'secondary-button-drop-shadow': 'var(--secondary-button-drop-shadow)',
         logo: '0 0 4px var(--primary)',
       },
+      screens: {
+        '-xs': { max: '375px' },
+        '-sm': { max: '575px' },
+        '-md': { max: '768px' },
+        '-lg': { max: '992px' },
+        '-xl': { max: '1200px' },
+        '-xxl': { max: '1440px' },
+      }
     },
   },
   plugins: [],
