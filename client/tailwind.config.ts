@@ -21,9 +21,11 @@ const config: Config = {
       boxShadow: {
         'primary-filled-button-shadow': 'var(--primary-filled-button-shadow)',
         'input-box-shadow': 'var(--input-box-shadow)',
+        header: '0 -0.5rem 0.7rem 0.0625rem'
       },
       dropShadow: {
         'secondary-button-drop-shadow': 'var(--secondary-button-drop-shadow)',
+        logo: '0 0 4px var(--primary)',
       },
     },
   },

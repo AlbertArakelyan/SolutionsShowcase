@@ -22,3 +22,11 @@
   /*Drop shadows*/
   --secondary-button-drop-shadow: drop-shadow(26px 73px 31px rgba(0,41,122,0.01)) drop-shadow(14px 41px 26px rgba(0,41,122,0.05)) drop-shadow(6px 18px 19px rgba(0,41,122,0.09)) drop-shadow(2px 5px 11px rgba(0,41,122,0.1)) drop-shadow(0px 0px 0px rgba(0,41,122,0.1));
 }
+
+.center-container {
+  @apply container mx-auto;
+}
+
+.nav-link {
+  @apply py-3 px-6 relative inline-block after:absolute after:bottom-0 after:left-1/2 after:-translate-x-1/2 after:w-0 after:h-[0.125rem] after:bg-primary after:transition-all after:duration-300 hover:after:w-full;
+}
