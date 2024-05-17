@@ -8,13 +8,26 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        primary: 'var(--primary)',
+        black: 'var(--black)',
+        white: 'var(--white)',
+        gray: 'var(--gray)',
+        'very-light-blue': 'var(--very-light-blue)',
+        'alpha-black': 'var(--alpha-black)',
+
+        'muted': 'var(--muted)',
+      },
+      boxShadow: {
+        'primary-filled-button-shadow': 'var(--primary-filled-button-shadow)',
+        'input-box-shadow': 'var(--input-box-shadow)',
+      },
+      dropShadow: {
+        'secondary-button-drop-shadow': 'var(--secondary-button-drop-shadow)',
       },
     },
   },
   plugins: [],
 };
+
 export default config;

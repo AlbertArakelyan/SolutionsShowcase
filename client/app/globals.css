@@ -3,31 +3,22 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+  --primary: #007CED;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
+  /*Abstract colors*/
+  --black: #131313;
+  --white: #FFFFFF;
+  --gray: #333333;
+  --very-light-bLue: #eBF0FF;
+  --alpha-black: rgba(0,0,0,.015);
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+  /*Essential colors*/
+  --muted: #918D8D;
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+  /*Box shadows*/
+  --primary-filled-button-shadow: 0px 4px 10px rgba(0 ,0 ,0 ,0.15);
+  --input-box-shadow: rgba(48, 98, 145, 0.08) 0px 10px 50px;
+
+  /*Drop shadows*/
+  --secondary-button-drop-shadow: drop-shadow(26px 73px 31px rgba(0,41,122,0.01)) drop-shadow(14px 41px 26px rgba(0,41,122,0.05)) drop-shadow(6px 18px 19px rgba(0,41,122,0.09)) drop-shadow(2px 5px 11px rgba(0,41,122,0.1)) drop-shadow(0px 0px 0px rgba(0,41,122,0.1));
 }
