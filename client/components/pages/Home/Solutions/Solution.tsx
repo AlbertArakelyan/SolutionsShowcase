@@ -6,9 +6,9 @@ import { ISolutionProps } from '@/components/pages/Home/Solutions/types';
 const Solution = ({ solution }: ISolutionProps) => {
   const technologiesContent = solution.technologies.map((technology) => {
     return (
-      <div className="w-10 h-10">
+      <div className="w-10 h-10" key={technology.name}>
         <Image
-          className="size-full block  "
+          className="size-full block"
           key={technology.name}
           src={technology.icon}
           alt={technology.name}
