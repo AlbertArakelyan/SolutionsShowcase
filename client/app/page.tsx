@@ -1,6 +1,12 @@
+import Solutions from '@/components/pages/Home/Solutions';
+
 const Home = () => {
   return (
-    <h1 className="text-primary text-center text-3xl">Coming soon</h1>
+    <section>
+      <div className="center-container">
+        <Solutions />
+      </div>
+    </section>
   );
 };
 

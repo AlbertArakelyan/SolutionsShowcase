@@ -19,6 +19,7 @@ export interface ISolution {
   id: string;
   projectName: string;
   about: string;
+  image: string;
   repositories: IRepository[];
   authors: IAuthor[];
   technologies: ITechnology[];
