@@ -3,7 +3,7 @@ import { ISolution } from '@/types';
 
 export const solutions: ISolution[] = [
   {
-    id: '1',
+    id: 'checkinator',
     projectName: 'Checkinator',
     about: 'A simple MERN app for testing Stripe with user and subscription management, for taking React architecture I used to know to the next level with advanced usage of unit tests and also for improving my knowledge in backend with help of nodejs as a frontend developer. Also created an admin panel for having a full control over the app.',
     image: '/images/projects/checkinator.png',
@@ -43,7 +43,7 @@ export const solutions: ISolution[] = [
     ],
   },
   {
-    id: '2',
+    id: 'exoplanet-project',
     projectName: 'Exoplanet Project',
     about: 'Simple MERN with ready frontend part for focusing on Node.js by getting data from external sources, working with CSV files and parsing them and of course working with databases such as MongoDB with mongoose.',
     image: '/images/projects/exoplanet-project.png',
