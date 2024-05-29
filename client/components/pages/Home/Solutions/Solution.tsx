@@ -47,7 +47,7 @@ const Solution = ({ solution }: ISolutionProps) => {
               Repo
             </button>
           </a>
-          <Link href={`/${solution.id}`}>
+          <Link href={`/solutions/${solution.id}`}>
             <button className="button-primary">
               Details
             </button>

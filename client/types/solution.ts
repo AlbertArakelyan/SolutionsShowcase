@@ -20,7 +20,10 @@ export interface ISolution {
   projectName: string;
   about: string;
   image: string;
+  ogImage: string;
+  imageAlt: string;
   repositories: IRepository[];
   authors: IAuthor[];
   technologies: ITechnology[];
+  keywords: string[];
 }

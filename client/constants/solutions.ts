@@ -7,6 +7,8 @@ export const solutions: ISolution[] = [
     projectName: 'Checkinator',
     about: 'A simple MERN app for testing Stripe with user and subscription management, for taking React architecture I used to know to the next level with advanced usage of unit tests and also for improving my knowledge in backend with help of nodejs as a frontend developer. Also created an admin panel for having a full control over the app.',
     image: '/images/projects/checkinator.png',
+    ogImage: '/images/projects/checkinator.png', // TODO add og image
+    imageAlt: 'Checkinator',
     repositories: [
       {
         name: 'checkinator-frontend',
@@ -41,12 +43,15 @@ export const solutions: ISolution[] = [
       technologies.mongoose,
       technologies.stripe,
     ],
+    keywords: [],
   },
   {
     id: 'exoplanet-project',
     projectName: 'Exoplanet Project',
     about: 'Simple MERN with ready frontend part for focusing on Node.js by getting data from external sources, working with CSV files and parsing them and of course working with databases such as MongoDB with mongoose.',
     image: '/images/projects/exoplanet-project.png',
+    ogImage: '/images/projects/exoplanet-project.png', // TODO add og image
+    imageAlt: 'Exoplanet Project',
     repositories: [
       {
         name: 'react-express-exoplanet-project',
@@ -69,5 +74,6 @@ export const solutions: ISolution[] = [
       technologies.mongoose,
       technologies.docker,
     ],
+    keywords: [],
   },
 ];
