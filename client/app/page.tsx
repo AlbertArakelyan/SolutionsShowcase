@@ -2,13 +2,14 @@ import { Metadata } from 'next';
 
 import Solutions from '@/components/pages/Home/Solutions';
 
-import { defaultOpenGraph, mainTitle } from '@/constants/seo';
+import { defaultOpenGraph, mainTitle, mainDescription } from '@/constants/seo';
 
 const title = `Albert Arakelyan | ${mainTitle}`;
 const canonical = '/';
 
 export const metadata: Metadata = {
   title,
+  description: mainDescription,
   alternates: {
     canonical: canonical,
   },
